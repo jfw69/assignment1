@@ -1,0 +1,9 @@
+Tutorial set up:
+https://learn.unity.com/project/roll-a-ball?uv=6
+
+My Ball: Yellow 3D Emoji by sm_wizard on Vecteezy.com  
+Licensed under Free License with Attribution  
+https://www.vecteezy.com/png/47832771-yellow-3d-emoji-isolated-on-transparent-background
+
+Questions and Assistance with creation using ChatGPT 4o
+Helping understand all the bells and whistles
